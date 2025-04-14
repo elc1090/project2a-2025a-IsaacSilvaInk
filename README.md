@@ -7,36 +7,33 @@
 > 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
 > 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](assets/screenshotsite.png "Screenshot do projeto").
 
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+[Link para o site](https://elc1090.github.io/project2a-2025a-IsaacSilvaInk/)
 
 
-#### Desenvolvedor(a)
+#### Desenvolvedor
 
-Preencha aqui seu nome
+Isaac Silva Dos Santos
 
 
 #### Ambiente de desenvolvimento
-
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
-- Outras
+- Bloco de notas(CSS)
+- Pycharm
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
+Entender este código base e tutorial foi a chave para conseguir fazer o site: https://github.com/timmywheels/github-api-tutorial
+Os demais processos, como adicionar a opção de digitar o nome do repositório seguem a mesma base de buscar o nome do código original.
 
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
+A parte mais desafiadora deste exercício foi entender o que acontecia no "app.js", eu nunca tinha visto o comando "const" antes, mas com o auxílio do ChatGPT consegui entender sua função no código. Entendi que a função fetch é muito importante para que o Json se "interligue" com  API de certa forma. E então depois de entender o código e modificá-lo para sua nova função usei bootstrap para dar uma leve mudada no design da página.
 
 
 
